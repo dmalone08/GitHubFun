@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  GitHubFun
-//
-//  Created by Darnell Malone on 3/31/18.
-//  Copyright © 2018 Darnell Malone. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
